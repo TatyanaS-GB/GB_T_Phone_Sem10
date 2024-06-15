@@ -1,4 +1,4 @@
-
+from data_create import name_data, surname_data, phone_data, address_data
 from logger import input_data, print_data
 def delete_data():
     name = input("Введите имя или фамилию для удаления: ")
